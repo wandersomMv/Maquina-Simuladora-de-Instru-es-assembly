@@ -1,0 +1,4 @@
+move R2 5
+move R3 78
+sub R1 R2 R3
+read R1
